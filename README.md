@@ -1,4 +1,4 @@
-# Amazon-Alexa-Reviews-Sentiment-Analysis
+# Amazon-product-Reviews-Sentiment-Analysis
 
 # Here is Reviews.csv
 
